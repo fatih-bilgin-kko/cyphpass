@@ -1,4 +1,4 @@
-# cyphpass
+# CYPHPASS
 # Cypher & Password Utility
 
 Bu proje, çeşitli şifreleme ve şifre çözme işlemleri yapmak için tasarlanmış bir Python modülü içermektedir. Ayrıca, güvenli şifreler oluşturmak için bir şifre oluşturma aracı da sağlar.
